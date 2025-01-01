@@ -12,6 +12,20 @@
 
 ---
 
+## 🤖 **Data Engineering**  
+
+- 🚀 ETL and Data Pipelines with Shell, Airflow and Kafka [IBM] [Verify here](https://www.coursera.org/accomplishments)  
+- 📊 Introduction to Big Data with Spark and Hadoop [IBM] [Verify here](https://www.coursera.org/accomplishments)  
+- 🤖 Machine Learning with Apache Spark [IBM] [Verify here](https://www.coursera.org/accomplishments)  
+- 🎯 Data Engineering Career Guide and Interview Preparation [IBM] [Verify here](https://www.coursera.org/accomplishments)  
+- 🛠️ Introduction to Data Engineering [IBM] [Verify here](https://www.coursera.org/accomplishments)  
+- 🏗️ Data Warehouse Fundamentals [IBM] [Verify here](https://www.coursera.org/accomplishments)  
+- 🌟 Generative AI: Elevate your Data Engineering Career [IBM] [Verify here](https://www.coursera.org/accomplishments)  
+- 🐍 Python for Data Science, AI & Development [IBM] [Verify here](https://www.coursera.org/accomplishments)  
+- 💻 Hands-on Introduction to Linux Commands and Shell Scripting [IBM] [Verify here](https://www.coursera.org/accomplishments)
+  
+---
+
 ## 📚 **Traitement du Langage Naturel (NLP)**
 - 🗣️ [NLP - Natural Language Processing with Python](https://www.udemy.com/certificate/UC-7031ec9e-17b5-47ab-9646-016bf4a95419/) (Udemy)
 - 🤖 [LLMs Workshop: Practical Exercises of Large Language Models](https://www.udemy.com/certificate/UC-59cbff7c-0fe5-4dcc-acd2-2c0a5c896a20/) (Udemy)
